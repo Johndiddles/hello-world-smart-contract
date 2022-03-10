@@ -1,6 +1,6 @@
 HELLO WORLD SMART CONTRACT
 
-contract address: 0xa58431a6bb617e5438535e450bc33fa3f2279140;
+contract address: https://rinkeby.etherscan.io/address/0xa58431a6bb617e5438535e450bc33fa3f2279140
 
 It contains 3 directories:
 1. 'contracts': Holds three contracts with different complexity level, denoted with number prefix in file name.
