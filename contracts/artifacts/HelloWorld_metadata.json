@@ -82,7 +82,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/3_Hello_world.sol": "Hello"
+			"contracts/3_Hello_world.sol": "HelloWorld"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -97,11 +97,11 @@
 	},
 	"sources": {
 		"contracts/3_Hello_world.sol": {
-			"keccak256": "0x0cd0d2f0caed66e30bfbc4e7ece3083cdcf29f93843891f87213de74db9315aa",
+			"keccak256": "0x723a581e006ebe45d2e3bf6d9b3cc197d38fc46f35ec984d8589db1e233083a2",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://cca1a3478ccffe5b7c9c27884a610e7f3e27074f99a6731ce27a85cd0672729f",
-				"dweb:/ipfs/QmWdrmDHKp2WpraeYz5fH2AVAxucf6hHo188DAezfzZyow"
+				"bzz-raw://448f1b8121d0a0e822a0fb15b632a209f0a77720ae23352c3a973aaa9b50548e",
+				"dweb:/ipfs/QmRSC8vfqAVmH4aiaaXTgHZsrXjUd3PGQ5rS1g54dmVxQm"
 			]
 		}
 	},

@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.8.11;
 
-contract Hello {
+contract HelloWorld {
     string public name;
     string public helloPrefix = "Hello ";
 
